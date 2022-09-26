@@ -1,8 +1,9 @@
 {
-  "name": "bytebank",
+  "name": "javascript-oo",
   "version": "1.0.0",
-  "description": "projeto inicial para clientes",
+  "description": "colocando arquivos javascript separados",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/atilawfonseca/javascript-OO.git"
   },
-  "author": "Atila",
+  "author": "atila",
   "license": "ISC",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/atilawfonseca/javascript-OO/issues"
   },
